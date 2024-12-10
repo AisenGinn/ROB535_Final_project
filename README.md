@@ -14,8 +14,8 @@ This project builds upon the [DINOv2 repository](https://github.com/facebookrese
 ## **Installation**
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/your-username/enhanced-dinov2.git
-   cd enhanced-dinov2
+   git clone https://github.com/your-username/ROB535_Final_project.git
+   cd ROB535_Final_project
    pip install -r requirements.txt
 
 2. (Optional) You can use pre-train segmentation head in [DINOv2 repository](https://github.com/facebookresearch/dinov2).
